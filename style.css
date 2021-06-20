@@ -1,0 +1,13 @@
+.ibox {
+    height: 300px;
+    width: 200px;
+}
+
+.ibox2 {
+    height: 300px;
+    width: 300px;
+}
+
+body {
+   background: linear-gradient(#78ffd6, #0ED2F7)
+}
